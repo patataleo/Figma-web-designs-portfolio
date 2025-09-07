@@ -15,11 +15,11 @@ A sleek landing page inspired by modern streaming platforms.
 
 ### ✈️ Travel – Travel & Adventure Website  
 A clean and inviting design showcasing destinations and trip ideas.  
-![Travel Preview](images/travel.jpg)
+![Travel Preview](images/Travel.jpg)
 
 ---
 
-### 📖 FYouVersion – Bible Reading Platform  
+### 📖 YouVersion – Bible Reading Platform  
 A minimal and serene layout for scripture reading and study.  
 ![YouVersion Preview](images/youversion.jpg)
 
@@ -45,7 +45,7 @@ A professional showcase of skills, projects, and contact information.
 ## 📩 Contact
 If you’d like to collaborate or have a project in mind, feel free to reach out:  
 
-- Email: *your.email@example.com*  
+- Email: *mleomapanao@gmail.com*  
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mapanao-marc-leo-c-90a74b379/)
 
 ---
