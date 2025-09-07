@@ -33,7 +33,7 @@ A structured, professional layout designed for readability and content flow.
 
 ### 💼 MyPortfolio – Personal Portfolio Website  
 A professional showcase of skills, projects, and contact information.  
-![MyPortfolio Preview](images/portfolio.png)
+![MyPortfolio Preview](images/portfolio.jpg)
 
 ---
 
